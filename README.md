@@ -1,2 +1,2 @@
-# hackyhackhack
-The ultimate hacky repo for hackilicious code
+# hacksea
+The public repo for hacksea code.
